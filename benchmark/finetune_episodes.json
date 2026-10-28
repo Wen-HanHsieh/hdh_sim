@@ -1,0 +1,85 @@
+{
+ "source": "physical-intelligence/libero",
+ "tasks": [
+  {
+   "task": "libero_10:0",
+   "instruction": "put both the alphabet soup and the tomato sauce in the basket",
+   "episodes": {
+    "8": "543c1c934aa27959",
+    "13": "04e3c92264e963b5",
+    "26": "b55d5b4636970dd7",
+    "39": "1e0eb709962b9cc4",
+    "69": "154548669a42bff3",
+    "71": "afd688f604aee013",
+    "77": "4de39466721c6eef",
+    "79": "939fa36f84072fa1",
+    "92": "f1aea2ddccf18413",
+    "101": "28b653688d1efd2a"
+   }
+  },
+  {
+   "task": "libero_10:2",
+   "instruction": "turn on the stove and put the moka pot on it",
+   "episodes": {
+    "6": "46207ed020bd5cc2",
+    "38": "984afbf8de66afd1",
+    "40": "c226218ebf5d6349",
+    "45": "4bbc26e350a705ca",
+    "48": "c20d51fae9a9fdba",
+    "49": "af9ddb1d6b748af7",
+    "50": "5012cbbf62d6ac91",
+    "66": "33c30e988a2d51aa",
+    "72": "519e67e6bbce8496",
+    "87": "32ef8e5e6405bb72"
+   }
+  },
+  {
+   "task": "libero_10:3",
+   "instruction": "put the black bowl in the bottom drawer of the cabinet and close it",
+   "episodes": {
+    "14": "0c116bcd8e2dd632",
+    "15": "32076061eae1c585",
+    "16": "b07da786c2c7a7e6",
+    "31": "a8104ad1ad4bfd62",
+    "32": "23ac6f3391e4615a",
+    "36": "e75b7338f4fd4d8a",
+    "75": "25569415d7762f2b",
+    "89": "309d638a77290f26",
+    "90": "5af008e21f57f99f",
+    "97": "ca45427c106a4733"
+   }
+  },
+  {
+   "task": "libero_10:6",
+   "instruction": "put the white mug on the plate and put the chocolate pudding to the right of the plate",
+   "episodes": {
+    "1": "6f66494c471fab15",
+    "4": "eb1554e00cc2ef58",
+    "5": "5ffad3151afce0da",
+    "11": "cb3488bdee401dd0",
+    "19": "08a80533ef35e6ce",
+    "21": "105f832d8b1cdc9c",
+    "37": "fc6fbd6b208d8436",
+    "52": "393177ef3267b72e",
+    "62": "c6d970de0a2db4e8",
+    "68": "8b99d4ca26d12838"
+   }
+  },
+  {
+   "task": "libero_10:7",
+   "instruction": "put both the alphabet soup and the cream cheese box in the basket",
+   "episodes": {
+    "7": "e19569371bd71249",
+    "9": "966cb9ac0af84037",
+    "25": "207ce1e3d60e3236",
+    "29": "f54f8c377bd2dcdb",
+    "30": "f918fc599e81a380",
+    "41": "129dbee7888084b7",
+    "63": "ffa9bf806b98b733",
+    "74": "94a8cf9023259279",
+    "82": "e680dffc45f3dfa7",
+    "83": "a6d4ed1a0193d0fc"
+   }
+  }
+ ]
+}
