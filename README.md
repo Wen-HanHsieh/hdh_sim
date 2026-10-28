@@ -3,6 +3,8 @@
 Wen-Han Hsieh<sup>1</sup>, Ken Jiankun Zheng<sup>1</sup>, Chia-Chien Chen<sup>2</sup>, David Chan<sup>1</sup>, Trevor Darrell<sup>1</sup><br>
 <sup>1</sup>UC Berkeley, <sup>2</sup>National Tsing Hua University
 
+[Project Page](https://wen-hanhsieh.github.io/hdh/)
+
 ![Teaser](assets/teaser.png)
 
 This repository contains the simulation (LIBERO) code of **HDH**. For real-robot deployment on DROID, see [hdh_real](https://github.com/Wen-HanHsieh/hdh_real).
